@@ -1,0 +1,16 @@
+C:\Users\user1\Documents\תכנות\שנה ב\פרקטי קוד\myProject2\myProject2\bin\Debug\net8.0\myProject2.exe
+C:\Users\user1\Documents\תכנות\שנה ב\פרקטי קוד\myProject2\myProject2\bin\Debug\net8.0\Seed\HtmlTags.json
+C:\Users\user1\Documents\תכנות\שנה ב\פרקטי קוד\myProject2\myProject2\bin\Debug\net8.0\Seed\HtmlVoidTags.json
+C:\Users\user1\Documents\תכנות\שנה ב\פרקטי קוד\myProject2\myProject2\bin\Debug\net8.0\myProject2.deps.json
+C:\Users\user1\Documents\תכנות\שנה ב\פרקטי קוד\myProject2\myProject2\bin\Debug\net8.0\myProject2.runtimeconfig.json
+C:\Users\user1\Documents\תכנות\שנה ב\פרקטי קוד\myProject2\myProject2\bin\Debug\net8.0\myProject2.dll
+C:\Users\user1\Documents\תכנות\שנה ב\פרקטי קוד\myProject2\myProject2\bin\Debug\net8.0\myProject2.pdb
+C:\Users\user1\Documents\תכנות\שנה ב\פרקטי קוד\myProject2\myProject2\obj\Debug\net8.0\myProject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\תכנות\שנה ב\פרקטי קוד\myProject2\myProject2\obj\Debug\net8.0\myProject2.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\תכנות\שנה ב\פרקטי קוד\myProject2\myProject2\obj\Debug\net8.0\myProject2.AssemblyInfo.cs
+C:\Users\user1\Documents\תכנות\שנה ב\פרקטי קוד\myProject2\myProject2\obj\Debug\net8.0\myProject2.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\תכנות\שנה ב\פרקטי קוד\myProject2\myProject2\obj\Debug\net8.0\myProject2.dll
+C:\Users\user1\Documents\תכנות\שנה ב\פרקטי קוד\myProject2\myProject2\obj\Debug\net8.0\refint\myProject2.dll
+C:\Users\user1\Documents\תכנות\שנה ב\פרקטי קוד\myProject2\myProject2\obj\Debug\net8.0\myProject2.pdb
+C:\Users\user1\Documents\תכנות\שנה ב\פרקטי קוד\myProject2\myProject2\obj\Debug\net8.0\myProject2.genruntimeconfig.cache
+C:\Users\user1\Documents\תכנות\שנה ב\פרקטי קוד\myProject2\myProject2\obj\Debug\net8.0\ref\myProject2.dll
